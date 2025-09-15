@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Janani SenthilKumar  
+# Hi 👋, It's me Janani SenthilKumar  
 
 <img align="right" alt="coding girl" width="300" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
@@ -29,11 +29,6 @@
   <img src="https://img.icons8.com/color/48/000000/ansible.png"/>
   <img src="https://img.icons8.com/color/48/000000/docker.png"/>
 </p>
-## 📊 GitHub Stats  
-
-![Janani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Janani2207&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Janani2207&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Janani2207&theme=radical)  
 
 ## 🎉 Fun Fact  
 
